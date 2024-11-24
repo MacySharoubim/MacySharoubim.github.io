@@ -52,7 +52,7 @@ Primary use:
   display: flex;
   justify-content: center; /* Horizontaal centreren */
   align-items: center; /* Verticaal centreren */
-  background-color: #ead3eb;
+  background-color: #fda8eb;
 }
 
 @media (max-width: 992px) {
@@ -200,7 +200,7 @@ Primary use:
 .s2-txt1 {
   font-family: Poppins-Medium;
   font-size: 20px;
-  color: #ed4e3e;
+  color: #fe2a41;
   line-height: 1.2;
 }
 
