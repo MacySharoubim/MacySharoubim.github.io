@@ -202,6 +202,7 @@ Primary use:
   font-size: 20px;
   color: #fe2a41;
   line-height: 1.2;
+  margin: 30px;
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -340,7 +341,8 @@ Primary use:
 
 /*---------------------------------------------*/
 .wrappic1 {
-  display: block;
+  display: flex;
+  justify-content: center;
 }
 
 .wrappic1 img {
